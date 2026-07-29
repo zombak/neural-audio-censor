@@ -29,7 +29,8 @@
 
 1. Клонируй или скачай репозиторий:
    ```bash
-   cd c:\Utils\audio-censor
+   git clone https://github.com/zombak/neural-audio-censor
+   
    ```
 
 2. Создай виртуальное окружение (если ещё нет):
