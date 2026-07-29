@@ -1,0 +1,1 @@
+\b(?:f[u*]ck(ing|ed|er|s)?|sh[i*]t(ting|ty|head|s)?|b[i*]tch(ing|es|y)?|a\s*s(hole|hat|es)?|bastard(s)?|c[u*]nt(s)?|damn(ed|s)?|piss(ing|ed|s)?|motherf[u*]ck(er|ing)?)\b

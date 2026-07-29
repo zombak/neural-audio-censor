@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Environment config (contains paths)
+.env
+
+# Backup folder
+_backup/
+
+# Model folders (large, downloaded separately)
+faster-whisper-tiny/
+faster-whisper-base/
+faster-whisper-small/
+faster-whisper-medium/
+faster-whisper-large-v3/
+GigaAM-Multilingual/
+parakeet-tdt-0.6b-v3/
+
+# Memory for AI Agent
+memory.md
+changelog.md
+
+# Output files (generated during processing)
+stats.txt
+censor-log.txt
+transcription*.txt
+*_clean.wav
