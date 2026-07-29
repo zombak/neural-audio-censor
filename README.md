@@ -108,4 +108,4 @@ python main.py
 
 ## Лицензия
 
-Pet-project для Zavtracast Podcast. Не является коммерческим продуктом.
+Pet-project для [Zavtracast](https://zavtracast.ru/) Podcast. Не является коммерческим продуктом.
