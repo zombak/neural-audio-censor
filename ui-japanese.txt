@@ -33,6 +33,7 @@ custom_sound_label=カスタムサウンドを使用：
 btn_select_sound=ファイルを選択...
 sound_default=デフォルトのビープ音
 volume_label=音量：
+custom_sound_note=⚠️ ファイルのサンプリングレートは処理対象のオーディオファイルと一致させる必要があります（44100または48000Hz）
 folder_label=.wavファイルのフォルダを選択してください（44100、48000Khz）
 btn_browse=参照...
 folder_dialog_title=オーディオファイルのフォルダを選択

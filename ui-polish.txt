@@ -32,6 +32,7 @@ custom_sound_label=Użyj własnego dźwięku:
 btn_select_sound=Wybierz plik...
 sound_default=Domyślne pikanie
 volume_label=Głośność:
+custom_sound_note=⚠️ Plik musi mieć tę samą częstotliwość próbkowania co przetwarzane pliki audio (44100 lub 48000 Hz)
 folder_label=Proszę wybrać folder z plikami .wav (44100, 48000Khz)
 btn_browse=Przeglądaj...
 folder_dialog_title=Wybierz folder z plikami audio

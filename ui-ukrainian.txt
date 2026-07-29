@@ -32,6 +32,7 @@ custom_sound_label=Використовувати власний звук:
 btn_select_sound=Обрати файл...
 sound_default=Стандартний біп
 volume_label=Гучність:
+custom_sound_note=⚠️ Файл має бути в тій же герцовці, що й оброблювані аудіофайли (44100 або 48000 Гц)
 folder_label=Будь ласка, виберіть папку з .wav-файлами (44100, 48000Khz)
 btn_browse=Обзор...
 folder_dialog_title=Виберіть папку з аудіофайлами

@@ -32,6 +32,7 @@ custom_sound_label=使用自定义声音：
 btn_select_sound=选择文件...
 sound_default=默认蜂鸣声
 volume_label=音量：
+custom_sound_note=⚠️ 文件采样率必须与处理的音频文件相同（44100或48000赫兹）
 folder_label=请选择包含.wav文件的文件夹（44100、48000Khz）
 btn_browse=浏览...
 folder_dialog_title=选择音频文件文件夹

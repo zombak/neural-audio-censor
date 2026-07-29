@@ -31,6 +31,7 @@ log_level_changed=Console output changed to:custom_sound_label=Use custom sound:
 btn_select_sound=Select file...
 sound_default=Default beep
 volume_label=Volume:
+custom_sound_note=⚠️ File must match the sample rate of processed audio files (44100 or 48000 Hz)
 folder_label=Please select folder with .wav files (44100, 48000Khz)
 btn_browse=Browse...
 folder_dialog_title=Select audio files folder

@@ -32,6 +32,7 @@ custom_sound_label=Eigenen Ton verwenden:
 btn_select_sound=Datei auswählen...
 sound_default=Standard-Bip
 volume_label=Lautstärke:
+custom_sound_note=⚠️ Datei muss die gleiche Abtastrate wie die Audiofiles haben (44100 oder 48000 Hz)
 folder_label=Wählen Sie den Ordner mit .wav-Dateien (44100, 48000Khz)
 btn_browse=Durchsuchen...
 folder_dialog_title=Audiodateiordner auswählen

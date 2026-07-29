@@ -32,6 +32,7 @@ custom_sound_label=사용자 정의 소리 사용:
 btn_select_sound=파일 선택...
 sound_default=기본 삐 소리
 volume_label=볼륨:
+custom_sound_note=⚠️ 파일의 샘플링 레이트는 처리되는 오디오 파일과 동일해야 합니다(44100 또는 48000 Hz)
 folder_label=.wav 파일이 있는 폴더를 선택하세요 (44100, 48000Khz)
 btn_browse=찾아보기...
 folder_dialog_title=오디오 파일 폴더 선택

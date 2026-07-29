@@ -410,6 +410,10 @@ class AudioCensorApp:
         self.sound_label.pack(side="left")
         self.use_custom_sound.trace("w", lambda *a: self.on_sound_mode_change())
 
+        # Custom Sound Note (sample rate warning)
+        sound_note_frame = ttk.Frame(main_frame)
+        sound_note_frame.pack(fill="x", pady=(0, 5))
+        ttk.Label(sound_note_frame, text=self.t["custom_sound_note"], foreground="#cc6600").pack(anchor="w")
 
         # Volume Settings
         volume_frame = ttk.Frame(main_frame)

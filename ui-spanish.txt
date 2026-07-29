@@ -32,6 +32,7 @@ custom_sound_label=Usar sonido personalizado:
 btn_select_sound=Seleccionar archivo...
 sound_default=Pitido por defecto
 volume_label=Volumen:
+custom_sound_note=⚠️ El archivo debe tener la misma frecuencia de muestreo que los archivos de audio procesados (44100 o 48000 Hz)
 folder_label=Seleccione la carpeta con archivos .wav (44100, 48000Khz)
 btn_browse=Examinar...
 folder_dialog_title=Seleccionar carpeta de archivos de audio

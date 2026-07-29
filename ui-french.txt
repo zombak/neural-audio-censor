@@ -32,6 +32,7 @@ custom_sound_label=Utiliser un son personnalisé :
 btn_select_sound=Sélectionner le fichier...
 sound_default=Bip par défaut
 volume_label=Volume :
+custom_sound_note=⚠️ Le fichier doit avoir la même fréquence d'échantillonnage que les fichiers audio traités (44100 ou 48000 Hz)
 folder_label=Sélectionnez le dossier avec les fichiers .wav (44100, 48000Khz)
 btn_browse=Parcourir...
 folder_dialog_title=Sélectionner le dossier de fichiers audio
